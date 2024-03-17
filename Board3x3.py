@@ -1,4 +1,4 @@
-class Board:
+class Board3x3:
     def __init__(self):
         self.board = [["_","_","_"],
                       ["_", "_", "_"],
